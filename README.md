@@ -4,11 +4,11 @@
 
 Hi there! I'm Ola, a passionate learner and explorer or ideas.
 
-[[about.md|About me]]
+[About me](about.md)
 
 ## 📚 Bookshelf
 
 Here are some of the books I've read and my take on them.
 
-[[books.md|Bookshelf]]
+[Bookshelf](books.md)
 
